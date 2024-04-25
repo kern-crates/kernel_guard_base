@@ -1,5 +1,5 @@
 [package]
-name = "kernel_guard"
+name = "kernel_guard_base"
 version = "0.1.0"
 edition = "2021"
 authors = ["Yuekai Jia <equation618@gmail.com>"]
@@ -17,4 +17,3 @@ default = []
 
 [dependencies]
 cfg-if = "1.0"
-crate_interface = "0.1"
